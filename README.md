@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+1. Nolan Corr	NolanC2001@gmail.com
+
+2. I created this GitHub account for school purposes. Specifically for Wake Tech University. I intend to use it for future tasks involving GitHub.
+
+3. I created the repository known as NolanJKC. It's named after my first name, followed by my full initials. Currently, it does not contain any files other than this README file.
+
+4. I opened up the "Clone Repository" option in GitHub Desktop, and then selected the NolanJKC repository. After selecting the location I wished to store the files on my computer, I hit the "Clone Repository" button.
+
+
 <!--
 **NolanJKC/NolanJKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

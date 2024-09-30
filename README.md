@@ -8,18 +8,13 @@
 
 4. I opened up the "Clone Repository" option in GitHub Desktop, and then selected the NolanJKC repository. After selecting the location I wished to store the files on my computer, I hit the "Clone Repository" button.
 
+# About Me
+## My Interests
+	* My primary interests include video games, miniature war games, and Table-Top-Role-Playing-Games. I was actually going to Wake Tech for a degree in game development, before deciding to switch to a different degree. I enjoy all kinds of video games and still find myself looking into the field of game development. Perhaps I will make it into a hobby.
+## Websites I recommend
+	* [Games Workshop] (https://www.warhammer.com/en-US/home)
+	** This is the home website for Games Workshop, the company behind Warhammer. Warhammer is a game I play _pretty_ often these days.
+	* [Dungeons & Dragons Beyond] (https://www.dndbeyond.com/how-to-play-dnd)
+	** This is a how-to website for getting started with Dungeons & Dragons. Dungeons and Dragons is a classic Table-Top RPG that has been around for about **50** years.
 
-<!--
-**NolanJKC/NolanJKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
